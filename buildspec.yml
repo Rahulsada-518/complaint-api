@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 version: 0.2
 
 phases:
@@ -7,4 +8,15 @@ phases:
 
 artifacts:
   files:
+=======
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - zip -r function.zip .
+
+artifacts:
+  files:
+>>>>>>> 9a788f69b41f27a16739a73a9f0c3efb31f60430
     - function.zip

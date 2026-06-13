@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {
   "name": "complaint-api",
   "version": "1.0.0"
+=======
+{
+  "name": "complaint-api",
+  "version": "1.0.0"
+>>>>>>> 9a788f69b41f27a16739a73a9f0c3efb31f60430
 }
