@@ -2,7 +2,7 @@ exports.handler = async (event) => {
     return {
         statusCode: 200,
         body: JSON.stringify({
-            message: "Version 2"
+            message: "Version 3"
         })
     };
 };
